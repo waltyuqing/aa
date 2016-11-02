@@ -2,6 +2,500 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd7c607-1492-4704-88ca-d800f340b090" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/app.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/archive/app.js/2a9ca5895f63d310de71ee7ebab4d393b02e2068" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/archive/app.js/44038ff142d34459d831c09157a40d5adbbcf7f1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/archive/app.js/aff5e7137d7c20ba51de1cfb2ac59c165c2d9450" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/archive/app.js/d306a3d8f35559532d44ee4273004ceea8119e06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/archive/resources/css/app.css/7222d9b04748a86bcc5bf7da0c54a8c82f073305" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/cache.appcache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/deltas/app.js/2a9ca5895f63d310de71ee7ebab4d393b02e2068.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/deltas/app.js/44038ff142d34459d831c09157a40d5adbbcf7f1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/deltas/app.js/d306a3d8f35559532d44ee4273004ceea8119e06.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/Cookers.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/add_address.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/cooker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/cooker_details.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/cooker_dishes.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/cooker_order.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/ext.ux.ratingfield.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/lArea.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/pay.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/personal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/private.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/private_meal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/private_order.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/register.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/service.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/css/sweet-alert.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/icons/Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/icons/Icon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/icons/Icon_Android36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/icons/Icon_Android48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/icons/Icon~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/icons/Icon~ipad@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/icons/iTunesArtwork.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/icons/icon-spot~ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/0.56935420958325271477387893439.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/account_personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/address_personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/arr-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/arrowws.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/back1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/back_personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/banner-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/banner-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/banner-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/callcenter_girls_glasses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cart_m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cd-icon-arrow-next.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cd-icon-select.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cd-icons-cart-close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/change.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/change_header_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/change_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/check-no.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/collect-no.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/collect-yes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/collect_personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cooker-fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cooker.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cooker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cooker_menu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cooker_menu1_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cooker_personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cuisine1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cuisine2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cuisine3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cuisine4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cuisine5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cuisine6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cuisine_guanfu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cuisine_jiachang.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cuisine_qingzhen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/cuisine_yangsheng.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/custom_service_personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/fanhui.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/fashion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/g-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/g-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/g-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/g-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/g-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/g-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/header_personal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/heart (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/heart_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/home-fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/hot-cooker1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/hot-cooker2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/hot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/ico.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/icon_50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image101.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image102.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image103.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image104.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image105.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image106.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image107.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image108.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image109.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image110.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image42.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image44.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image46.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image47.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image48.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image49.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image51.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image52.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image53.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image54.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image55.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image56.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image63.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image65.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image66.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image68.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image73.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image75.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image76.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image77.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image78.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image79.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image80.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image81.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image83.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image85.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image86.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image87.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image88.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image89.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image91.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image92.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image93.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image94.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image95.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image96.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image97.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image98.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/image99.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/img_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/index-fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/job.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/job_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/jt_nar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/jt_nor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/less.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/login_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/magnify.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/menu1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/menu2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/menu3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/menu4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/more_personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/more_unfold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/moretwo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/old_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/order-fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/order.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/order_personal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/pay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/people-fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/people.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/personal_backgroundimage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/picture01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/picture02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/picture03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/picture04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/position.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/pot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/preloader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private-fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private1_dish1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private1_dish2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private1_dish3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private1_dish4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private1_dish5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private1_dish6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private1_dish7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private1_dish8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private1_dish9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private2_dish9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private3_dish9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private4_dish9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_banner1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_banner2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_banner3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_banner4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_cooker.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_meal1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_meal2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_meal3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_meal4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu2_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu2_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu3_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu3_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu3_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu4_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu4_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/private_menu4_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/qq (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/qq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/recommend.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/rocket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/rocket_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/s-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/s-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/s-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/s-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/s-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/s-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/service.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/sousuo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/star1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/star2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/star3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/star4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/star5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/start_image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/start_page.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/start_page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tag_la.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tag_la_fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tag_milk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tag_milk_fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tag_old.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tag_old_fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tag_qingdan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tag_qingdan_fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tag_stop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tag_stop_fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tegother.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/tegother_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/totop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/upload_picture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/user-fill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/user1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/user2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/user3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/weibo (1).png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/weibo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/weixin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/weixin_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/xingxing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/xuanzhong.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/xuanzhong2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/images/搜索.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/js/date.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/js/getPosition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/js/iscroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/js/jquery.raty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/js/lArea.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/js/sweet-alert.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/startup/1496x2048.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/startup/1536x2008.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/startup/320x460.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/startup/640x920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/startup/748x1024.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/private_cooker2/resources/startup/768x1004.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="aa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,16 +515,7 @@
     <favorites_list name="aa" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="aa.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aa.html">
-          <provider selected="true" editor-type-id="text-editor">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,8 +540,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="276" />
-    <option name="y" value="38" />
+    <option name="x" value="354" />
+    <option name="y" value="50" />
     <option name="width" value="1141" />
     <option name="height" value="709" />
   </component>
@@ -104,6 +589,10 @@
               <option name="myItemId" value="aa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="private_cooker2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -119,6 +608,11 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -179,15 +673,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1478082100852</updated>
+      <workItem from="1478082102202" duration="1213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1213000" />
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
+    <frame x="354" y="50" width="1141" height="709" extended-state="1" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -215,6 +712,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/aa.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private_cooker2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private_cooker2/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private_cooker2/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
